@@ -1,0 +1,10 @@
+{
+  "name": "VOV Vietnam radio",
+  "version": "1.0.0",
+  "description": "VOV Vietnam radio",
+  "main": "index.js",
+  "author": "Dan Nguyen",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
